@@ -1,6 +1,6 @@
-item_sold = 'bread'
-price_per_loaf = 3.45
-quantity_in_stock = 22
+item_sold = "Bread"
+price_per_loaf = 4.52
+quantity_in_stock = 230
 
 
 # Testing
