@@ -1,6 +1,6 @@
-item_name = 'Sweet Corn'
-item_price = 1.29
-item_stock_quantity = 5
+item_name = 'Eggs'
+item_price = 3.99
+item_stock_quantity = 120
 in_stock = item_stock_quantity >  0
 
 
